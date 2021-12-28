@@ -10,7 +10,27 @@
     $("#c-btn").on('click', function () {
             $("#exampleModal iframe").attr("src", $("#exampleModal iframe").attr("src"));
         });
-
+    $("#c-btn3").on('click', function () {
+            $("#exampleModal3 iframe").attr("src", $("#exampleModal3 iframe").attr("src"));
+        });
+    $("#c-btn2").on('click', function () {
+            $("#exampleModal2 iframe").attr("src", $("#exampleModal2 iframe").attr("src"));
+        });
+    $("#c-btn4").on('click', function () {
+            $("#exampleModal4 iframe").attr("src", $("#exampleModal4 iframe").attr("src"));
+        });
+    $("#c-btn5").on('click', function () {
+            $("#exampleModal5 iframe").attr("src", $("#exampleModal5 iframe").attr("src"));
+        });
+    $("#c-btn6").on('click', function () {
+            $("#exampleModal6 iframe").attr("src", $("#exampleModal6 iframe").attr("src"));
+        });
+    $("#c-btn7").on('click', function () {
+            $("#exampleModal7 iframe").attr("src", $("#exampleModal7 iframe").attr("src"));
+        });
+    $("#c-btn8").on('click', function () {
+            $("#exampleModal8 iframe").attr("src", $("#exampleModal8 iframe").attr("src"));
+        });    
      var video2 = document.getElementById("v2");
         function stopVideo2() {
             video2.pause();
