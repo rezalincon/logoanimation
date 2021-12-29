@@ -295,7 +295,7 @@
 
     function myFunction25() {
 
-        var element = document.getElementById("exampleModal125");
+        var element = document.getElementById("exampleModal25");
         element.classList.add("animate__backOutDown");
         $('.modal-backdrop').remove();
 
@@ -434,6 +434,61 @@
         setTimeout(function () {
             $('#exampleModal36').modal('hide');
             $('#exampleModal36').removeClass('animate__backOutDown');
+        }, 1000);
+    }
+    function myFunction37() {
+
+        var element = document.getElementById("exampleModal37");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal37').modal('hide');
+            $('#exampleModal37').removeClass('animate__backOutDown');
+        }, 1000);
+    }
+    function myFunction38() {
+
+        var element = document.getElementById("exampleModal38");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal38').modal('hide');
+            $('#exampleModal38').removeClass('animate__backOutDown');
+        }, 1000);
+    }
+    function myFunction39() {
+
+        var element = document.getElementById("exampleModal39");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal39').modal('hide');
+            $('#exampleModal39').removeClass('animate__backOutDown');
+        }, 1000);
+    }
+    function myFunction40() {
+
+        var element = document.getElementById("exampleModal40");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal40').modal('hide');
+            $('#exampleModal40').removeClass('animate__backOutDown');
+        }, 1000);
+    }
+    function myFunction41() {
+
+        var element = document.getElementById("exampleModal41");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal41').modal('hide');
+            $('#exampleModal41').removeClass('animate__backOutDown');
         }, 1000);
     }
 

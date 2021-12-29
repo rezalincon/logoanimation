@@ -264,6 +264,31 @@
         vplay36.play();
         // video.currentTime = 0;
     }
+        var vplay37 = document.getElementById("v37");
+    function playVideo37() {
+        vplay37.play();
+        // video.currentTime = 0;
+    }
+       var vplay38 = document.getElementById("v38");
+    function playVideo38() {
+        vplay38.play();
+        // video.currentTime = 0;
+    }
+       var vplay39 = document.getElementById("v39");
+    function playVideo39() {
+        vplay39.play();
+        // video.currentTime = 0;
+    }
+       var vplay40 = document.getElementById("v40");
+    function playVideo40() {
+        vplay40.play();
+        // video.currentTime = 0;
+    }
+      var vplay41 = document.getElementById("v41");
+    function playVideo41() {
+        vplay41.play();
+        // video.currentTime = 0;
+    }
 
 
 
