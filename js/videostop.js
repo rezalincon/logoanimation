@@ -121,5 +121,14 @@
         });           
     $("#c-btn41").on('click', function () {
             $("#exampleModal41 iframe").attr("src", $("#exampleModal41 iframe").attr("src"));
+        });
+    $("#c-btn42").on('click', function () {
+            $("#exampleModal42 iframe").attr("src", $("#exampleModal42 iframe").attr("src"));
         });  
+    $("#c-btn43").on('click', function () {
+            $("#exampleModal43 iframe").attr("src", $("#exampleModal43 iframe").attr("src"));
+        });
+    $("#c-btn44").on('click', function () {
+            $("#exampleModal44 iframe").attr("src", $("#exampleModal44 iframe").attr("src"));
+        });   
    

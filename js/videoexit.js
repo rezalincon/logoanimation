@@ -10,7 +10,7 @@
         setTimeout(function () {
             $('#exampleModal').modal('hide');
             $('#exampleModal').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
 
@@ -24,7 +24,7 @@
             setTimeout(function () {
                 $('#exampleModal2').modal('hide');
                 $('#exampleModal2').removeClass('animate__backOutDown');
-            }, 1000);
+            }, 600);
         }
 
 
@@ -38,7 +38,7 @@
         setTimeout(function () {
             $('#exampleModal3').modal('hide');
             $('#exampleModal3').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction4() {
@@ -50,7 +50,7 @@
         setTimeout(function () {
             $('#exampleModal4').modal('hide');
             $('#exampleModal4').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction5() {
@@ -62,7 +62,7 @@
         setTimeout(function () {
             $('#exampleModal5').modal('hide');
             $('#exampleModal5').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction6() {
@@ -74,7 +74,7 @@
         setTimeout(function () {
             $('#exampleModal6').modal('hide');
             $('#exampleModal6').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction7() {
@@ -86,7 +86,7 @@
         setTimeout(function () {
             $('#exampleModal7').modal('hide');
             $('#exampleModal7').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction8() {
@@ -98,7 +98,7 @@
         setTimeout(function () {
             $('#exampleModal8').modal('hide');
             $('#exampleModal8').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction9() {
@@ -110,7 +110,7 @@
         setTimeout(function () {
             $('#exampleModal9').modal('hide');
             $('#exampleModal9').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction10() {
@@ -122,7 +122,7 @@
         setTimeout(function () {
             $('#exampleModal10').modal('hide');
             $('#exampleModal10').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction11() {
@@ -134,7 +134,7 @@
         setTimeout(function () {
             $('#exampleModal11').modal('hide');
             $('#exampleModal11').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction12() {
@@ -146,7 +146,7 @@
         setTimeout(function () {
             $('#exampleModal12').modal('hide');
             $('#exampleModal12').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction13() {
@@ -158,7 +158,7 @@
         setTimeout(function () {
             $('#exampleModal13').modal('hide');
             $('#exampleModal13').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction14() {
@@ -170,7 +170,7 @@
         setTimeout(function () {
             $('#exampleModal14').modal('hide');
             $('#exampleModal14').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction15() {
@@ -182,7 +182,7 @@
         setTimeout(function () {
             $('#exampleModal15').modal('hide');
             $('#exampleModal15').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction16() {
@@ -194,7 +194,7 @@
         setTimeout(function () {
             $('#exampleModal16').modal('hide');
             $('#exampleModal16').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction17() {
@@ -206,7 +206,7 @@
         setTimeout(function () {
             $('#exampleModal17').modal('hide');
             $('#exampleModal17').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction18() {
@@ -218,7 +218,7 @@
         setTimeout(function () {
             $('#exampleModal18').modal('hide');
             $('#exampleModal18').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction19() {
@@ -230,7 +230,7 @@
         setTimeout(function () {
             $('#exampleModal19').modal('hide');
             $('#exampleModal19').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction20() {
@@ -242,7 +242,7 @@
         setTimeout(function () {
             $('#exampleModal20').modal('hide');
             $('#exampleModal20').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction21() {
@@ -254,7 +254,7 @@
         setTimeout(function () {
             $('#exampleModal21').modal('hide');
             $('#exampleModal21').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction22() {
@@ -266,7 +266,7 @@
         setTimeout(function () {
             $('#exampleModal22').modal('hide');
             $('#exampleModal22').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction23() {
@@ -278,7 +278,7 @@
         setTimeout(function () {
             $('#exampleModal23').modal('hide');
             $('#exampleModal23').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction24() {
@@ -290,7 +290,7 @@
         setTimeout(function () {
             $('#exampleModal24').modal('hide');
             $('#exampleModal24').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction25() {
@@ -302,7 +302,7 @@
         setTimeout(function () {
             $('#exampleModal25').modal('hide');
             $('#exampleModal25').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction26() {
@@ -314,7 +314,7 @@
         setTimeout(function () {
             $('#exampleModal26').modal('hide');
             $('#exampleModal26').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction27() {
@@ -326,7 +326,7 @@
         setTimeout(function () {
             $('#exampleModal27').modal('hide');
             $('#exampleModal27').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction28() {
@@ -338,7 +338,7 @@
         setTimeout(function () {
             $('#exampleModal28').modal('hide');
             $('#exampleModal28').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction29() {
@@ -350,7 +350,7 @@
         setTimeout(function () {
             $('#exampleModal29').modal('hide');
             $('#exampleModal29').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction30() {
@@ -362,7 +362,7 @@
         setTimeout(function () {
             $('#exampleModal30').modal('hide');
             $('#exampleModal30').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction31() {
@@ -374,7 +374,7 @@
         setTimeout(function () {
             $('#exampleModal31').modal('hide');
             $('#exampleModal31').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction32() {
@@ -386,7 +386,7 @@
         setTimeout(function () {
             $('#exampleModal32').modal('hide');
             $('#exampleModal32').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction33() {
@@ -398,7 +398,7 @@
         setTimeout(function () {
             $('#exampleModal33').modal('hide');
             $('#exampleModal33').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction34() {
@@ -410,7 +410,7 @@
         setTimeout(function () {
             $('#exampleModal34').modal('hide');
             $('#exampleModal34').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction35() {
@@ -422,7 +422,7 @@
         setTimeout(function () {
             $('#exampleModal35').modal('hide');
             $('#exampleModal35').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
 
     function myFunction36() {
@@ -434,7 +434,7 @@
         setTimeout(function () {
             $('#exampleModal36').modal('hide');
             $('#exampleModal36').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
     function myFunction37() {
 
@@ -445,7 +445,7 @@
         setTimeout(function () {
             $('#exampleModal37').modal('hide');
             $('#exampleModal37').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
     function myFunction38() {
 
@@ -456,7 +456,7 @@
         setTimeout(function () {
             $('#exampleModal38').modal('hide');
             $('#exampleModal38').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
     function myFunction39() {
 
@@ -467,7 +467,7 @@
         setTimeout(function () {
             $('#exampleModal39').modal('hide');
             $('#exampleModal39').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
     function myFunction40() {
 
@@ -478,7 +478,7 @@
         setTimeout(function () {
             $('#exampleModal40').modal('hide');
             $('#exampleModal40').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
     }
     function myFunction41() {
 
@@ -489,10 +489,43 @@
         setTimeout(function () {
             $('#exampleModal41').modal('hide');
             $('#exampleModal41').removeClass('animate__backOutDown');
-        }, 1000);
+        }, 600);
+    }
+    
+    function myFunction42() {
+
+        var element = document.getElementById("exampleModal42");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal42').modal('hide');
+            $('#exampleModal42').removeClass('animate__backOutDown');
+        }, 600);
+    }
+    function myFunction43() {
+
+        var element = document.getElementById("exampleModal43");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal43').modal('hide');
+            $('#exampleModal43').removeClass('animate__backOutDown');
+        }, 600);
+    }
+    function myFunction44() {
+
+        var element = document.getElementById("exampleModal44");
+        element.classList.add("animate__backOutDown");
+        $('.modal-backdrop').remove();
+
+        setTimeout(function () {
+            $('#exampleModal44').modal('hide');
+            $('#exampleModal44').removeClass('animate__backOutDown');
+        }, 600);
     }
 
 
 
 
-<!-- CLOSE ANIMATION STOP -->

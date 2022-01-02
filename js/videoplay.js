@@ -289,6 +289,21 @@
         vplay41.play();
         // video.currentTime = 0;
     }
+      var vplay42 = document.getElementById("v42");
+    function playVideo42() {
+        vplay41.play();
+        // video.currentTime = 0;
+    }
+      var vplay43 = document.getElementById("v43");
+    function playVideo43() {
+        vplay43.play();
+        // video.currentTime = 0;
+    }
+      var vplay44 = document.getElementById("v44");
+    function playVideo44() {
+        vplay44.play();
+        // video.currentTime = 0;
+    }
 
 
 
