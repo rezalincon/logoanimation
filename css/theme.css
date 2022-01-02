@@ -3751,7 +3751,9 @@ a{
 .copy-txt:hover{
   border-bottom: 1px solid #fff !important;
 }
-
+.copy-font{
+  font-size: 17px !important;
+}
 @media (max-width: 475.98px) { 
     .modal-dialog{
       width: 85% !important;
@@ -3776,6 +3778,9 @@ a{
     .post-thumb{
       height: 90px !important;
     }
+    .copy-font{
+  font-size: 9px !important;
+}
  }
 
  @media (min-width: 476px) and (max-width: 797.98px) { 
@@ -3802,6 +3807,9 @@ a{
     .post-thumb{
       height: 130px !important;
     }
+    .copy-font{
+  font-size: 13px !important;
+}
   }
 
 
